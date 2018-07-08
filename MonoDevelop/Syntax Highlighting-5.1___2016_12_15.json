@@ -1,0 +1,31 @@
+{
+	"name":"MyStyle",
+	"version":"1.0",
+	"originator":"Jeffrey Stedfast <fejj@novell.com>",
+	"baseScheme":"Visual Studio",
+	"colors":[
+	],
+	"text":[
+		{"name": "Plain Text", "fore":"#000000", "back":"#CAF4CE" },
+		{"name": "Line Numbers", "fore":"#2B8EAF", "back":"#CAF4CE" },
+		{"name": "Punctuation(Brackets)", "fore":"#000000", "back":"#CAF4CE" },
+		{"name": "String", "fore":"#A22E2E" },
+		{"name": "Number", "fore":"#A0009F" },
+		{"name": "Preprocessor", "fore":"#A0009F" },
+		{"name": "Preprocessor(Region Name)", "fore":"#A0009F" },
+		{"name": "User Field Usage", "fore":"#000080" },
+		{"name": "User Field Declaration", "fore":"#000080" },
+		{"name": "User Property Usage", "fore":"#000080" },
+		{"name": "User Property Declaration", "fore":"#0000FF" },
+		{"name": "User Event Usage", "fore":"#000080" },
+		{"name": "User Event Declaration", "fore":"#0000FF" },
+		{"name": "User Method Usage", "fore":"#880000" },
+		{"name": "User Method Declaration", "fore":"#880000" },
+		{"name": "User Parameter Usage", "fore":"#000080" },
+		{"name": "User Parameter Declaration", "fore":"#000080" },
+		{"name": "User Variable Usage", "fore":"#000080" },
+		{"name": "User Variable Declaration", "fore":"#000080" },
+		{"name": "Diff Header", "fore":"#4D9A06" },
+		{"name": "Diff Header(Separator)", "fore":"#4D9A06", "weight":"Bold" }
+	]
+}
