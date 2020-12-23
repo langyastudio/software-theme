@@ -1,2 +1,0 @@
-Set source font to "Helvetica Neue" or "Arial", depending on what font you used in your project.
-Set destination "Font family" to "Helvetica Neue", Arial, sans-serif.
