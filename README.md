@@ -27,6 +27,12 @@ common programming software themes
   WeUIv0.4
 
   移动端元件库+可视化+业务库
+  
+  大学生在线学习手机APP平台交互原型
+  
+  在线教育机构小程序实战原型模板原型
+  
+  
 
 #### intelij idea
 - settings about skin
